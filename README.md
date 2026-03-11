@@ -6,25 +6,23 @@ A communication coaching skill for Claude that helps you choose the right approa
 
 ---
 
-## About CDO School
+## Who Made This
 
-This plugin is built on frameworks and methodology from [CDO School](https://thecdo.school) — boutique courses, workshops, and communities of practice for experienced designers and design leaders, built around a proprietary methodology.
+This plugin is built from an instructional method at [CDO School](https://thecdo.school). Founded by [Ryan Rumsey](https://www.ryanrumsey.com) (formerly a design leader at Apple, Electronic Arts, and USAA) CDO School gives designers the concrete skills to connect design to business, build genuine influence, and lead with confidence. Its curriculum has been developed and refined with 2,500+ designers from companies including Apple, Google, Airbnb, Netflix, Slack, and more.
 
-Founded by [Ryan Rumsey](https://www.ryanrumsey.com) — formerly a design leader at Apple, Electronic Arts, and USAA — CDO School gives designers the concrete skills to connect design to business, build genuine influence, and lead with confidence. Its curriculum has been developed and refined with 2,500+ designers from companies including Apple, Google, Airbnb, Netflix, Slack, and more.
-
-- [CDO School](https://thecdo.school) — courses, frameworks, and strategies for design leaders
+- [CDO School](https://thecdo.school) — learn more about the boutique courses, workshops, and communities of practice for experienced designers and design leaders.
 
 ---
 
 ## How It Works
 
-Most communication breaks down not because of *what* you said, but because of *when* and *how* you said it. Before choosing how to communicate, you need to read the person you're talking to — noticing what kind of argument you're actually in, assessing whether they can receive your message, and then choosing an approach that meets them where they are.
+Most communication breaks down not because of *what* you said, but because of *when* and *how* you said it. Before choosing how to communicate, you need to read the person you're talking to and notice what kind of argument you're actually in, assess whether they can receive your message, and then choose an approach that meets them where they are.
 
 This plugin uses a simple model based on two emotional states:
 
 **C-States** (Calm, Curious, Courageous, Confident, Connected, Creative, Compassionate, Clear) describe someone who is grounded and receptive. They're open to data, logic, and structured thinking. This is when an analytical approach works.
 
-**T-States** (Testy, Tense, Tired, Triggered, Timid, Threatened, Tormented, Troubled) describe someone who is emotionally activated or guarded. They need to feel heard before they can hear you. Leading with analysis here doesn't just fail — it often makes things worse.
+**T-States** (Testy, Tense, Tired, Triggered, Timid, Threatened, Tormented, Troubled) describe someone who is emotionally activated or guarded. They need to feel heard before they can hear you. Leading with analysis here doesn't just fail, it often makes things worse.
 
 Once you've read the room, the plugin helps you choose the right method and frame your argument accordingly.
 
@@ -114,18 +112,6 @@ Use `/readroom` when you just want to check whether to lead with validation or a
 
 ---
 
-## Skills
-
-Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.
-
-For more information, check out:
-- [What are skills?](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)
-- [Using skills in Claude](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)
-- [How to create custom skills](https://docs.anthropic.com/en/docs/claude-code/custom-skills)
-- [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/research/agent-skills)
-
----
-
 ## Project Structure
 
 ```
@@ -151,6 +137,18 @@ read-the-room/
 
 ---
 
+## Skills
+
+Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.
+
+For more information, check out:
+- [What are skills?](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)
+- [Using skills in Claude](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)
+- [How to create custom skills](https://docs.anthropic.com/en/docs/claude-code/custom-skills)
+- [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/research/agent-skills)
+
+---
+
 ## Troubleshooting
 
 **Cowork: Commands don't appear when I type /**
@@ -172,7 +170,7 @@ read-the-room/
 
 ## Changelog
 
-**v0.3.0** — Initial public release. Includes `/start`, `/readroom`, `/validate`, `/analyze` commands; dual installation paths for Claude Cowork and Claude Code.
+**v0.1.0** — Initial public release. Includes `/start`, `/readroom`, `/validate`, `/analyze` commands; dual installation paths for Claude Cowork and Claude Code.
 
 ---
 
