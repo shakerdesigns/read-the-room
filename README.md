@@ -1,4 +1,4 @@
-# Read the Room
+# Read the Room - Claude Skill
 
 A communication coaching skill for Claude that helps you choose the right approach before any important conversation. Works with both **Claude Cowork** (as an installable plugin with slash commands) and **Claude Code** (as a local skill).
 
