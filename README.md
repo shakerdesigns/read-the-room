@@ -8,7 +8,7 @@ A communication coaching skill for Claude that helps you choose the right approa
 
 ## About CDO School
 
-This plugin is built on frameworks and methodology from [CDO School](https://thecdo.school) — a boutique learning program for experienced designers and design leaders.
+This plugin is built on frameworks and methodology from [CDO School](https://thecdo.school) — boutique courses, workshops, and communities of practice for experienced designers and design leaders, built around a proprietary methodology.
 
 Founded by [Ryan Rumsey](https://www.ryanrumsey.com) — formerly a design leader at Apple, Electronic Arts, and USAA — CDO School gives designers the concrete skills to connect design to business, build genuine influence, and lead with confidence. Its curriculum has been developed and refined with 2,500+ designers from companies including Apple, Google, Airbnb, Netflix, Slack, and more.
 
@@ -54,7 +54,7 @@ These work as slash commands in Cowork, or can be invoked by name in Claude Code
 
 **Requirements:** Claude desktop app — [claude.ai/download](https://claude.ai/download) with Cowork mode enabled.
 
-1. Download **[read-the-room-v0.2.0.plugin](./read-the-room-v0.2.0.plugin)**
+1. Download **[read-the-room.plugin](./read-the-room.plugin)**
 2. Open the Claude desktop app and start a Cowork session
 3. Look for the plugin icon in the toolbar or sidebar
 4. Click **"Add Plugin"** or **"Install Plugin"** and select the file
@@ -146,7 +146,7 @@ read-the-room/
 ├── LICENSE                   # MIT License (code)
 ├── LICENSE-CC.md             # CC BY-SA 4.0 (content and frameworks)
 ├── README.md
-└── read-the-room-v0.2.0.plugin  # Installable plugin for Claude Cowork
+└── read-the-room.plugin  # Installable plugin for Claude Cowork
 ```
 
 ---
