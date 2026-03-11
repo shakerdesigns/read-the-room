@@ -52,11 +52,12 @@ These work as slash commands in Cowork, or can be invoked by name in Claude Code
 
 **Requirements:** Claude desktop app — [claude.ai/download](https://claude.ai/download) with Cowork mode enabled.
 
-1. Download **[read-the-room.plugin](./read-the-room.plugin)**
-2. Open the Claude desktop app and start a Cowork session
-3. Look for the plugin icon in the toolbar or sidebar
-4. Click **"Add Plugin"** or **"Install Plugin"** and select the file
-5. Click **Accept** when prompted
+1. Download this repository as a ZIP file (use the **Code → Download ZIP** button on GitHub) and extract it to your computer
+2. Locate the **[read-the-room.plugin](./read-the-room.plugin)** file inside the extracted folder
+3. Open the Claude desktop app and start a Cowork session
+4. Look for the plugin icon in the toolbar or sidebar
+5. Click **"Add Plugin"** or **"Install Plugin"** and select the file
+6. Click **Accept** when prompted
 
 > **Alternative:** You may be able to drag and drop the `.plugin` file directly into the Cowork window.
 
